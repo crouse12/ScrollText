@@ -4,6 +4,7 @@ makecode ScrollText package for micro:bit, it may show a scroll text in four dir
 
 Author: shaoziyang  
 Date:   2018.Sept  
+中文化： Jia-Lun Tsai
 
 ![](docs/static/libs/tropic.png?raw=true)  
   
