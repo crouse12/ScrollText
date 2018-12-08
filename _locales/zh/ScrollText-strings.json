@@ -1,5 +1,5 @@
 {
-    "ScollText|block": "跑馬燈",
+    "ScolText|block": "跑馬燈",
     "ScrolText.showString|block": "字串 跑馬燈 %s|方向 %dir|翻滾 %rotate|延遲 %delay",
     "ScrolText.showNumber|block": "數字 跑馬燈 %s|方向 %dir|翻滾 %rotate|延遲 %delay",
     "SCROLL_DIR.LEFT|block": "向左",
