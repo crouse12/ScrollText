@@ -1,4 +1,13 @@
 {
-    "sonar|block": "超音波",
-    "sonar.ping|block": "超音波插在 trig %trig|echo %echo|unit %unit"
+    "ScollText|block": "跑馬燈",
+    "ScrolText.showString|block": "字串 跑馬燈 %s|方向 %dir|翻滾 %rotate|延遲 %delay",
+    "ScrolText.showNumber|block": "數字 跑馬燈 %s|方向 %dir|翻滾 %rotate|延遲 %delay",
+    "SCROLL_DIR.LEFT|block": "向左",
+    "SCROLL_DIR.RIGHT|block": "向右",
+    "SCROLL_DIR.UP|block": "向上",
+    "SCROLL_DIR.DOWN|block": "向下",
+    "SCROLL_ROTATE.SR_0|block": "0度",
+    "SCROLL_ROTATE.SR_90|block": "90度",
+    "SCROLL_ROTATE.SR_180|block": "180度",
+    "SCROLL_ROTATE.SR_270|block": "270度"
 }
